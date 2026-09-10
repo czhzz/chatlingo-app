@@ -40,7 +40,7 @@ ChatLingo 是一款 AI 驱动的对话式语言学习应用——与 AI 伙伴�
 
 ## 联系方式
 
-邮箱：<support@geniux.top>
+邮箱：<clsupport@geniux.top>
 
 ---
 
@@ -57,4 +57,4 @@ is for **bug reports and feature requests** only — the app source is not hoste
 **Privacy:** <https://chatlingo.geniux.top/privacy/en>
 
 Please do **not** post credentials, verification codes, or personal conversation
-content in issues — email us instead: <support@geniux.top>
+content in issues — email us instead: <clsupport@geniux.top>
