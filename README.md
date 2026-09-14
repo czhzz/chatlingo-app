@@ -10,7 +10,7 @@ ChatLingo 是一款 AI 驱动的对话式语言学习应用——与 AI 伙伴�
 
 ## 下载
 
-**官网（推荐）**：👉 **<https://chatlingo.geniux.top>** —— 页面上的版本永远是当前最新版
+**官网（推荐）**：👉 **<https://chatlingo.geniux.top>**
 
 **直接从 GitHub 下载**：<https://github.com/czhzz/chatlingo-app/releases>
 
@@ -63,7 +63,7 @@ its **official hub for two things**: **Android releases**
 not hosted here.
 
 **Download**
-- Website (recommended): <https://chatlingo.geniux.top/en> — always the latest version
+- Website (recommended): <https://chatlingo.geniux.top/en>
 - Direct from GitHub: <https://github.com/czhzz/chatlingo-app/releases>
 
 Each release ships a `.sha256` checksum file alongside the APK.
