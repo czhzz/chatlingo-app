@@ -4,7 +4,7 @@ ChatLingo 是一款 AI 驱动的对话式语言学习应用——与 AI 伙伴�
 即时纠错、CEFR 水平评估、每周学习计划、词汇复习与成就统计。
 
 > 本仓库是 ChatLingo 的**官方发布与反馈入口**，承担两件事：
-> **① Android 版本发布**（[Releases](../../releases)）　**② 问题反馈与功能建议**（[Issues](../../issues)）。
+> **① Android 版本发布**（[Releases](https://github.com/czhzz/chatlingo-app/releases)）　**② 问题反馈与功能建议**（[Issues](https://github.com/czhzz/chatlingo-app/issues)）。
 >
 > 应用源码不在此仓库。
 
@@ -17,7 +17,6 @@ ChatLingo 是一款 AI 驱动的对话式语言学习应用——与 AI 伙伴�
 每个版本都附带 `.sha256` 校验文件，可在下载后核对完整性。
 
 > 目前只有 Android 版；iOS 版 TestFlight 筹备中。
-> 下载源在境外，大陆网络下速度可能不稳定——优先走官网。
 
 ## 反馈问题
 
@@ -57,17 +56,18 @@ ChatLingo 是一款 AI 驱动的对话式语言学习应用——与 AI 伙伴�
 ## English
 
 ChatLingo is an AI-powered conversational language learning app. This repository is
-its **official hub for two things**: **Android releases** ([Releases](../../releases))
-and **bug reports / feature requests** ([Issues](../../issues)). The app source is
+its **official hub for two things**: **Android releases**
+([Releases](https://github.com/czhzz/chatlingo-app/releases)) and
+**bug reports / feature requests**
+([Issues](https://github.com/czhzz/chatlingo-app/issues)). The app source is
 not hosted here.
 
 **Download**
 - Website (recommended): <https://chatlingo.geniux.top/en> — always the latest version
 - Direct from GitHub: <https://github.com/czhzz/chatlingo-app/releases>
 
-Each release ships a `.sha256` checksum file alongside the APK. Android only for now;
-iOS is in TestFlight preparation. Note the download source is hosted outside mainland
-China, so speeds may be unstable there — prefer the website.
+Each release ships a `.sha256` checksum file alongside the APK.
+Android only for now; iOS is in TestFlight preparation.
 
 **Report an issue:** Issues → New issue. Please include your app version
 (shown at the bottom of the Profile tab), device model and OS version.
